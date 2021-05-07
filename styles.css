@@ -17,3 +17,16 @@ body {
 .purple-about-text {
     color: purple
 }
+
+.footer-contact {
+    background-color: rgba(44,44,44,255);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px 10px;
+}
+
+.footer-contact h6 {
+    font-size: 0.9em;
+}
