@@ -18,6 +18,10 @@ body {
     color: purple
 }
 
+.purple-footer-text {
+    color: purple;
+}
+
 .footer-contact {
     background-color: rgba(44,44,44,255);
     color: white;
@@ -28,5 +32,5 @@ body {
 }
 
 .footer-contact h6 {
-    font-size: 0.9em;
+    font-size: 1em;
 }
