@@ -13,3 +13,7 @@ body {
     width: 260px !important;
     margin: 7px;
 }
+
+.purple-about-text {
+    color: purple
+}
